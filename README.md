@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Front-end: 
   - [Tailwindcss](https://tailwindcss.com)
-  - [TypeScript](hhttps://www.typescriptlang.org)
+  - [TypeScript](https://www.typescriptlang.org)
   - [Radix](https://www.radix-ui.com)
   - [Axios](https://axios-http.com/ptbr/)
   - [Clsx](https://github.com/lukeed/clsx)
