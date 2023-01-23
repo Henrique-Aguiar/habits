@@ -23,9 +23,8 @@ Front-end:
   - [ReactJS](https://pt-br.reactjs.org)
 
 Back-end:
-  - [TypeScript](hhttps://www.typescriptlang.org)
+  - [TypeScript](https://www.typescriptlang.org)
   - [Fastify](https://www.fastify.io)
-  - [Zod](https://github.com/colinhacks/zod)
   - [Node.JS](https://nodejs.org/en/)
   - [Prisma](https://www.prisma.io)
   - [Day.js](https://day.js.org)
@@ -38,7 +37,7 @@ O Habits é uma aplicação para controle de hábitos, onde o usuário pode adic
 
 ## 🚀 Como executar
 
-Para iniciar o seu servidor Phoenix:
+Para iniciar o seu servidor:
 
 - Instale as dependências com `npm install`
 - Inicie o servidor Node.JS com `npm run dev`
