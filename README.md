@@ -13,6 +13,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Front-end: 
+  - [Vite](https://vitejs.dev)
   - [Tailwindcss](https://tailwindcss.com)
   - [TypeScript](https://www.typescriptlang.org)
   - [Radix](https://www.radix-ui.com)
